@@ -6,6 +6,28 @@ h1 {
     border: 1px solid rgba(47, 46, 47, 0.59);
     /*font-family: inherit;*/
 }
+
+    .pb-cmnt-container {
+        font-family: time new romance;
+        /*margin-top: 100px;*/
+    }
+
+    .pb-cmnt-textarea {
+        resize: none;
+        padding: 20px;
+        height: 100px;
+        width: 100%;
+        border: 5px solid #F2F2F2;
+    }
+.user_name{
+    font-size:14px;
+    font-weight: bold;
+}
+.comments-list .media{
+    border-bottom: 1px dotted #ccc;
+    text-align: left;
+}
+
 .navactive{
    border-bottom: 1px solid #96E16B;
 }
